@@ -2,7 +2,7 @@
 
 
 ### Hi there 👋
-I am Yiğit Çetinkaya. I am a third-year computer engineering student at the Gazi University. I also work for a company as an intern. I want to work in the field of AI-Computer Vision in the future.I am actively writing react native in the company I am currently working for. That's why I continue to improve myself.
+I am Yiğit Çetinkaya. I am a third-year computer engineering student at the Gazi University. I also work for a company as an voluntary  intern. I want to work in the field of AI-Computer Vision in the future.I am actively writing react native in the company I am currently working for. That's why I continue to improve myself.
 
 <h3> Contact Me </h3>
   <a href="https://www.linkedin.com/in/yigitcetinkaya/" target="_blank" rel="nofollow"><img alt="Linkedin hesabım" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
