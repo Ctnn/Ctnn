@@ -1,7 +1,7 @@
 <img src="https://www.sesec.eu/app/uploads/2020/08/Artificial-Intelligence-Trends.jpeg"></img>
 
 
-#Hi there 👋
+### Hi there 👋
 I am Yiğit Çetinkaya. I am a third-year computer engineering student at the Gazi University. I also work for a company as an intern. I want to work in the field of AI-Computer Vision in the future.I am actively writing react native in the company I am currently working for. That's why I continue to improve myself.
 
 <h3> Contact Me </h3>
