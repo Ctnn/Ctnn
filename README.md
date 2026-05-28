@@ -61,12 +61,6 @@ Software engineer focused on **AI and Computer Vision**. I design and deploy dee
 
 <div align="center">
 
-![Trophy](https://github-profile-trophy.vercel.app/?username=Ctnn&theme=radical&no-frame=true&row=1&column=6)
-
-</div>
-
-<div align="center">
-
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Ctnn&theme=react-dark&hide_border=true&area=true)
 
 </div>
