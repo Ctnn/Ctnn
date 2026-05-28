@@ -44,6 +44,7 @@ Software engineer focused on **AI and Computer Vision**. I design and deploy dee
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu_26.04-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
@@ -54,13 +55,18 @@ Software engineer focused on **AI and Computer Vision**. I design and deploy dee
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Ctnn&show_icons=true&theme=radical&hide_border=true&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ctnn&layout=compact&theme=radical&hide_border=true&langs_count=8" />
+![GitHub Streak](https://streak-stats.demolab.com?user=Ctnn&theme=radical&hide_border=true)
 
 </div>
 
 <div align="center">
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Ctnn&theme=radical&hide_border=true)
+![Trophy](https://github-profile-trophy.vercel.app/?username=Ctnn&theme=radical&no-frame=true&row=1&column=6)
+
+</div>
+
+<div align="center">
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Ctnn&theme=react-dark&hide_border=true&area=true)
 
 </div>
