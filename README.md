@@ -1,38 +1,66 @@
-<img src="https://www.sesec.eu/app/uploads/2020/08/Artificial-Intelligence-Trends.jpeg"></img>
+<div align="center">
 
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=6E40C9&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Yi%C4%9Fit+%F0%9F%91%8B;AI+%26+Computer+Vision+Engineer;Deep+Learning+%7C+CUDA+%7C+TensorRT" alt="Typing SVG" />
 
-### Hi there 👋
-I am Yiğit Çetinkaya.I have been developing myself in the Software Field since my high school years.I am a third-year computer engineering student at the Gazi University. I also work for a company as an voluntary  intern. I want to work in the field of AI-Computer Vision in the future.I am actively writing react native in the company I am currently working for. That's why I continue to improve myself.
+<br/>
 
-<h3> Contact Me </h3>
-  <a href="https://www.linkedin.com/in/yigitcetinkaya/" target="_blank" rel="nofollow"><img alt="Linkedin hesabım" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:yigitcetinkaya88@gmail.com" target="_blank" rel="nofollow"><img alt="Yiğit's Mail Address" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
- <h3>Technologies and tools I use</h3>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yigitcetinkaya/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yigitcetinkaya88@gmail.com)
+[![GitHub followers](https://img.shields.io/github/followers/Ctnn?style=for-the-badge&logo=github&logoColor=white&color=181717)](https://github.com/Ctnn)
 
+</div>
 
-<img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"></img>
-<img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white"></img>
-<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"></img>
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"></img>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"></img>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"></img>
-<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"></img>
-<img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"></img>
-<img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"></img> 
+---
 
+### About Me
 
+Software engineer focused on **AI and Computer Vision**. I design and deploy deep learning pipelines — from model training to optimized GPU inference. Currently working in industry on production AI systems.
 
+- Working on Computer Vision and Deep Learning systems
+- Building optimized inference pipelines with **CUDA** and **TensorRT**
+- Experienced in mobile development with **React Native**
+- Always exploring new research in AI
 
+---
 
+### Tech Stack
 
-# [GitHub Stats]( https://github.com/Ctnn)
+**AI / ML**
 
-<a href="https://github.com/Ctnn">
-<img src="https://github-readme-stats.vercel.app/api?username=Ctnn&theme=radical" />
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![CUDA](https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
+![TensorRT](https://img.shields.io/badge/TensorRT-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 
-</a>
+**Mobile & Frontend**
 
-</br>
-<a href="https://github.com/Ctnn">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ctnn&layout=compact&theme=radical" />
-</a>
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+
+**Systems & Tools**
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Ubuntu](https://img.shields.io/badge/Ubuntu_26.04-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+
+---
+
+### GitHub Stats
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Ctnn&show_icons=true&theme=radical&hide_border=true&count_private=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ctnn&layout=compact&theme=radical&hide_border=true&langs_count=8" />
+
+</div>
+
+<div align="center">
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Ctnn&theme=radical&hide_border=true)
+
+</div>
